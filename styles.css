@@ -9,3 +9,16 @@ h2{
 h2{
     text-align: center;
 }
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+.header {
+    text-align: center;
+    background:
+    background-size:cover
+    padding:20px 0px 0px 0px;
+}
