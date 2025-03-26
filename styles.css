@@ -8,6 +8,7 @@ h2{
 
 h2{
     text-align: center;
+    display:center;
 }
 ul {
     padding: 10px;
@@ -21,4 +22,22 @@ li {
     background:
     background-size:cover
     padding:20px 0px 0px 0px;
+}
+h1 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+header {
+    text-align: center;
+    color: white;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYCHoocFXcRx_XywMH336cWAAvJxe6e8-dg&s);
+    background-size: cover;
+  }
+body {
+    text-align: center;
+}
+p {
+    text-align: center;
 }
