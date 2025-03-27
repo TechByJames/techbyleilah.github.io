@@ -3,9 +3,12 @@ h2{
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-    color :pink 
+    color : white
 }
-
+img {
+    border:7px solid white;
+    border-radius: 20px;
+}
 h2{
     text-align: center;
     display:center;
@@ -37,7 +40,12 @@ header {
   }
 body {
     text-align: center;
+    background: lightpink
 }
 p {
     text-align: center;
+}
+iframe{
+    border:7px solid white;
+    border-radius: 20px;
 }
