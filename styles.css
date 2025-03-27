@@ -35,12 +35,12 @@ h1 {
 header {
     text-align: center;
     color: white;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYCHoocFXcRx_XywMH336cWAAvJxe6e8-dg&s);
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:https://files.123freevectors.com/wp-content/solidbackground/gilded-beige-free-solidcolor-background.jpg-dg&s);
     background-size: cover;
   }
 body {
     text-align: center;
-    background: lightpink
+    background: grey
 }
 p {
     text-align: center;
@@ -50,5 +50,5 @@ iframe{
     border-radius: 20px;
 }
 a {
-    color: white;
+    color:white;
 }
